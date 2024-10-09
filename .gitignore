@@ -1,0 +1,5 @@
+# .gitignore for c# solutions
+
+.vscode/
+/*/bin/
+/*/obj/
